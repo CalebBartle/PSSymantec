@@ -1,10 +1,12 @@
 # PSSymantec
 Symantec Powershell Repository
 
+Note: Support for Powershell 7+ Coming to version PSSymantec v1.1 (Only PS 5.1- is supported.)
+
 # Instructions
 To use this Powershell Module, your account must be a system administrator to access the majority of the API components tested/verified within the module.
 
-## Install the PSSymatnec Module
+## Install the PSSymantec Module
 ```
 Install-Module -Name PSSymantec
 ```
