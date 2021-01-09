@@ -38,7 +38,7 @@ Either resolve the certificate trust issues or accept the certificate by pressin
 
 You now have successfully generated your authorization token. Further use of the module will now effectively work.
 
-#Available Modules
+# Available Modules
 ```
 Function        Get-SEPAdmins                                      1.0        PSSymantec
 Function        Get-SEPClientDefVersions                           1.0        PSSymantec
