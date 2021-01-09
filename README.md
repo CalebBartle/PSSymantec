@@ -35,3 +35,20 @@ SSL Certificate test failed, skipping certificate validation. Please check your 
 Please press enter to ignore this and continue without SSL/TLS secure channel: 
 ```
 Either resolve the certificate trust issues or accept the certificate by pressing enter.
+
+You now have successfully generated your authorization token. Further use of the module will now effectively work.
+
+#Available Modules
+```
+Function        Get-SEPAdmins                                      1.0        PSSymantec
+Function        Get-SEPClientDefVersions                           1.0        PSSymantec
+Function        Get-SEPClientStatus                                1.0        PSSymantec
+Function        Get-SEPClientThreatStats                           1.0        PSSymantec
+Function        Get-SEPClientVersions                              1.0        PSSymantec
+Function        Get-SEPMEventInfo                                  1.0        PSSymantec
+Function        Get-SEPMFirewallPolicies                           1.0        PSSymantec
+Function        Get-SEPMVersion                                    1.0        PSSymantec
+Function        Set-SEPQuarantine                                  1.0        PSSymantec
+Function        Start-SEPScan                                      1.0        PSSymantec
+Function        Update-SEPClientInfo                               1.0        PSSymantec
+```
